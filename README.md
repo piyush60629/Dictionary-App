@@ -4,7 +4,7 @@ A simple web application built using HTML, Bootstrap, and JavaScript to fetch an
 
 ## Description
 
-The Dictionary App allows users to enter a word and retrieves its definitions from the [Dictionary API](https://api.dictionaryapi.dev/api/v2/entries/en/). The application provides a clean and user-friendly interface to explore the meanings of words.
+The Dictionary App allows users to enter a word and retrieves its definitions from the [Dictionary API](https://piyush60629.github.io/Dictionary-App/). The application provides a clean and user-friendly interface to explore the meanings of words.
 
 ## Features
 
